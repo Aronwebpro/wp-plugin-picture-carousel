@@ -1,0 +1,29 @@
+/*Carousel front end styles*/
+
+#front-page-carousel {
+    position: relative;
+    top:120px;
+    margin-top: 10px;
+    max-width: 1900px;
+    min-height: 500px;
+}
+
+.carousel-indicators {
+    z-index: 2;
+}
+.item {
+    margin: 0 auto;
+    background-color: red;
+}
+#front-page-carouse img {
+ 
+}
+.carousel-inner {
+    text-align: center;
+}
+
+@media screen and (max-height: 720px) {
+    .carousel .item {
+        max-height: 300px;
+    }
+}

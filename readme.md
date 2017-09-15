@@ -1,4 +1,4 @@
-﻿===## AronWebpro Carousel ===
+== AronWebpro Carousel ===
 Contributors: Aronwebpro.com
 Tags: picture carousel
 Requires at least: 4.5
